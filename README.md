@@ -14,3 +14,5 @@ trenger ny print plate eventuelt heat bed.
 
 ## Ting som må fikses
 - Bytte bed, pga hull
+
+-Justere PID til riktig verdi?
