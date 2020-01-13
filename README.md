@@ -1,6 +1,7 @@
 # wanhao
 
 ## Status
+trenger ny print plate eventuelt heat bed.
 
 ## Specifikasjoner
 - http://www.wanhao3dprinter.com/xiazai/I3_Plus_user_manual_REV.A.pdf
