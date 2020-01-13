@@ -1,5 +1,5 @@
 # wanhao
-
+![Bildet til 3dprinteren](original.210x300m.jpg)
 ## Status
 trenger ny print plate eventuelt heat bed.
 
