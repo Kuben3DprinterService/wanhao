@@ -10,6 +10,7 @@ trenger ny print plate eventuelt heat bed.
 ## Setup tutorial and first print
 - https://www.youtube.com/watch?v=aRdBnSbiu0Q
 
-## Mangende deler
+## Manglende deler
 
 ## Ting som må fikses
+- Bytte bed, pga hull
